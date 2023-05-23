@@ -37,9 +37,11 @@ Other than that, the pages that are created to make up this application are:
         component folder named as common-card.tsx which is then reused in
         Home Page to create a clean code and then card-layer .tsx is also added
         for card components shown in User Interface.
+        
       ● Portfolio Page: Portfolio page involves accordion and a dataset that is
         mapped in accordion and depiction of dynamic data being rendered in the
         accordion body is being shown.
+        
       ● Settings Page: Settings page consists of a form which contains first
         name, last name, email, preferred name and phone. This saves the
         details of the user 
